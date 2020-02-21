@@ -1,9 +1,23 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+
+}
 .city{
   height: 30vh;
   width: 30vh;
   background-size: cover;
   background-position: center;
   position: relative;
+  margin: 10px;
+}
+
+.city-text{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
 }
 
 .dam{
