@@ -1,6 +1,7 @@
 *{
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Odibee Sans';
 
 }
 .city{
@@ -17,7 +18,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .dam{
