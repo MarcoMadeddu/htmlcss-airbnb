@@ -12,6 +12,8 @@
   background-position: center;
   position: relative;
   margin: 10px;
+  color:white;
+
 
 }
 
@@ -22,11 +24,13 @@
   transform: translate(-50%, -50%);
   font-size: 30px;
   background-color: inherit;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0);
+
 }
 
 .dam{
   background-image: url("../images/amsterdam.jpg");
+  background-color: red;
 }
 .bar{
   background-image: url("../images/barcelona.jpg");
