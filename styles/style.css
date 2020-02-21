@@ -1,0 +1,17 @@
+.city{
+  height: 30vh;
+  width: 30vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.dam{
+  background-image: url("../images/amsterdam.jpg");
+}
+.bar{
+  background-image: url("../images/barcelona.jpg");
+}
+.par{
+  background-image: url("../images/paris.jpg");
+}
