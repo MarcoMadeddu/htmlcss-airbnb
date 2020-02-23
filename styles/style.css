@@ -6,13 +6,12 @@
 
 }
 .city{
-  height: 30vh;
-  width: 30vh;
+  height: 50vh;
+  width: 50vh;
   background-size: cover;
   background-position: center;
   position: relative;
   margin: 10px;
-  color:white;
 }
 
 #layover{
@@ -31,7 +30,22 @@
   transform: translate(-50%, -50%);
   font-size: 30px;
   background-color: rgba(0, 0, 0, 0);
+  color: white;
 }
+
+.flag{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-495%, -66%);
+}
+
+.flag img{
+  width: 40px;
+}
+
 
 .dam{
   background-image: url("../images/amsterdam.jpg");
